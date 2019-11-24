@@ -1,0 +1,14 @@
+>pyroCali1_CRISPRs_crispr1 range=chr:260492-260541 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+caaaaacgagggaaaaacttataaactcacaagagccgcaaacgtgagcg
+>pyroCali1_CRISPRs_crispr2 range=chr:264854-264903 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+cactcacaagggaaaaacttaaaaaaccacaagagccgaggacgtgagcg
+>pyroCali1_CRISPRs_crispr3 range=chr:277909-277958 5'pad=0 3'pad=0 strand=- repeatMasking=none
+caaaaacgagggaaaaacttaaaaaaccacaagagccgaggacatgagcg
+>pyroCali1_CRISPRs_crispr4 range=chr:1185817-1185866 5'pad=0 3'pad=0 strand=- repeatMasking=none
+cgccaaagaaaaacttaaaaactgccagaaacaaaaacccaggaagccca
+>pyroCali1_CRISPRs_crispr5 range=chr:1190532-1190581 5'pad=0 3'pad=0 strand=- repeatMasking=none
+caccaaagaaaaacttaaaaaccgccagaaacaaaaacccaggaagccca
+>pyroCali1_CRISPRs_crispr6 range=chr:1203301-1203350 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+caccaaagaaaaacttaaaaactaacaaaaacaaatgcccaagaaaccca
+>pyroCali1_CRISPRs_crispr7 range=chr:1669347-1669396 5'pad=0 3'pad=0 strand=- repeatMasking=none
+cagctaaagaaaaacttaaaaacaaccaaaaacgatacctaagaaacata

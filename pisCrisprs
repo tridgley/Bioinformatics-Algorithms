@@ -1,0 +1,10 @@
+>pyroIsla1_CRISPRs_crispr1 range=chr:1217-1266 5'pad=0 3'pad=0 strand=- repeatMasking=none
+aaaaaaccacgaaaaaacttaaaaacccaaaagatccaaaaacacaagcc
+>pyroIsla1_CRISPRs_crispr2 range=chr:38816-38865 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+aaaaaaccacgaaaaaacttaaaaacccaaaagatccacacaaacaagcc
+>pyroIsla1_CRISPRs_crispr3 range=chr:1403982-1404031 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+aaaaaaccacgaaaaaacttaaaaacccaaaagatccatagacacaagcc
+>pyroIsla1_CRISPRs_crispr4 range=chr:1414027-1414076 5'pad=0 3'pad=0 strand=- repeatMasking=none
+aaaaaccatgaaaaaacttaaaaacccaaaagatccgaaaatacgagccc
+>pyroIsla1_CRISPRs_crispr5 range=chr:1759457-1759506 5'pad=0 3'pad=0 strand=- repeatMasking=none
+aaaaaaccacgaaaaaacttaaaaacccaaaagatccgaaaatacaagcc
